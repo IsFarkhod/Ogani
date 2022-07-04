@@ -1,0 +1,25 @@
+{
+  "name": "ogani",
+  "version": "1.0.0",
+  "description": "e-shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsFarkhod/Ogani.git"
+  },
+  "keywords": [
+    "JS",
+    "Html",
+    "Css",
+    "Bootstrap"
+  ],
+  "author": "Islamov Farkhod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsFarkhod/Ogani/issues"
+  },
+  "homepage": "https://github.com/IsFarkhod/Ogani#readme"
+}
